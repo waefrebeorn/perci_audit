@@ -469,3 +469,14 @@ Progress = **hardness · transfer · latency · binding quality · honest absten
   <br>
   <sub>PERCI · dark-blood · governed sparse cognition · v0.8.4</sub>
 </p>
+
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
